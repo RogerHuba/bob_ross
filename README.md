@@ -1,1 +1,9 @@
-# Bob_Ross_mom
+# Bob_Ross
+
+## Birthday
+
+## Born
+
+## Fun Facts
+
+## Passed
