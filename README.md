@@ -2,8 +2,10 @@
 
 ## Birthday
 
-## Born
+### Born
 
-## Fun Facts
+#### Fun Facts
 
-## Passed
+##### Passed
+
+###### Paitings
